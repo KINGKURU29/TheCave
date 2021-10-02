@@ -1,0 +1,21 @@
+<button>Apply for Moderator</button>
+ <button>Apply for Supporter</button>
+ <button>Apply for Helper</button>
+ Click here for informations about the Moderator.
+
+                <button class="btn-mod" id="mod-btn">Apply for Moderator</button>
+                <button class="btn-sup" id="sup-btn">Apply for Supporter</button>
+                <button class="btn-help" id="helper-btn">Apply for Helper</button>
+
+.buttonss{
+    position: relative;
+    top: 25%;
+}
+#mod-btn{
+    left: 10px;
+}
+#helper-btn{
+    right: 100px;
+}
+
+<script type="text/javascript" src="margin.js?v=7"></script>
